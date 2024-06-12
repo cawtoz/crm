@@ -1,0 +1,17 @@
+body {
+    display: flex;
+}
+
+.left-container {
+    width: 240px;
+}
+
+.right-container {
+    width: 100%;
+    margin: 20px;
+}
+
+.table-container .data {
+    height: 600px;
+}
+

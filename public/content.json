@@ -1,0 +1,53 @@
+{
+    "hero": {
+        "title": "Bienvenido a Tu CRM",
+        "description": "Un sistema de gesti\u00f3n de relaciones con clientes que facilita la administraci\u00f3n de tu negocio.",
+        "button": "Empieza Ahora"
+    },
+    "features": {
+        "title": "\u00bfQu\u00e9 es un CRM?",
+        "cards": [
+            {
+                "image": "..\/imgs\/contacto.png",
+                "title": "Gesti\u00f3n de Clientes",
+                "description": "Un CRM (Customer Relationship Management) es una herramienta que te permite gestionar y analizar las interacciones con tus clientes."
+            },
+            {
+                "image": "..\/imgs\/gestion-inventario.png",
+                "title": "Automatizaci\u00f3n",
+                "description": "Automatiza procesos de ventas, marketing y atenci\u00f3n al cliente para aumentar la eficiencia."
+            },
+            {
+                "image": "..\/imgs\/analisis-ventas.png",
+                "title": "An\u00e1lisis de Datos",
+                "description": "Obt\u00e9n an\u00e1lisis detallados para tomar decisiones estrat\u00e9gicas basadas en datos reales."
+            }
+        ]
+    },
+    "benefits": {
+        "title": "\u00bfC\u00f3mo Podemos Ayudar a tu Empresa?",
+        "description": "Podemos ayudarte a automatizar los procesos de ventas, mejorar la atenci\u00f3n al cliente y ofrecer an\u00e1lisis de datos detallados para tomar decisiones estrat\u00e9gicas. Nuestra herramienta CRM est\u00e1 dise\u00f1ada para optimizar la relaci\u00f3n con tus clientes y aumentar la eficiencia de tu negocio.",
+        "list": [
+            "Automatizaci\u00f3n de procesos de ventas",
+            "Mejora de la atenci\u00f3n al cliente",
+            "An\u00e1lisis de datos para decisiones estrat\u00e9gicas"
+        ],
+        "image": "..\/imgs\/ayudaempresa.png"
+    },
+    "cta": {
+        "title": "\u00danete a Nuestro CRM Hoy Mismo",
+        "description": "Reg\u00edstrate ahora y comienza a optimizar la gesti\u00f3n de tus clientes con nuestra herramienta CRM avanzada.",
+        "button": "Reg\u00edstrate Ahora",
+        "image": "..\/imgs\/clientespensando.png"
+    },
+    "about": {
+        "title": "Qui\u00e9nes Somos",
+        "description": "Somos una empresa especializada en el desarrollo de soluciones CRM (Customer Relationship Management) para ayudar a las empresas a gestionar sus relaciones con los clientes, mejorar la eficiencia operativa y optimizar los procesos de ventas. Nuestra herramienta est\u00e1 dise\u00f1ada para ofrecer un an\u00e1lisis detallado de datos y facilitar la toma de decisiones estrat\u00e9gicas.",
+        "list": [
+            "Soluciones CRM avanzadas",
+            "Gesti\u00f3n de relaciones con los clientes",
+            "An\u00e1lisis de datos para decisiones empresariales"
+        ],
+        "image": "..\/imgs\/preguntasfrecuentes.png"
+    }
+}

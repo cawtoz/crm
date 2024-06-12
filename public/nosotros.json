@@ -1,0 +1,35 @@
+{
+    "titulo_hero": "¿Quiénes Somos?",
+    "descripcion_hero": "Somos una empresa dedicada a desarrollar soluciones innovadoras de gestión de relaciones con clientes, ayudando a negocios a optimizar sus procesos y alcanzar el éxito.",
+    "cta_hero": "Conoce Más",
+    "titulo_quienes_somos": "Quiénes Somos",
+    "descripcion_quienes_somos": "Somos una empresa especializada en el desarrollo de soluciones CRM (Customer Relationship Management) para ayudar a las empresas a gestionar sus relaciones con los clientes, mejorar la eficiencia operativa y optimizar los procesos de ventas. Nuestra herramienta está diseñada para ofrecer un análisis detallado de datos y facilitar la toma de decisiones estratégicas.",
+    "lista_quienes_somos": "Soluciones CRM avanzadas,Gesti\u00f3n de relaciones con los clientes,Análisis de datos para decisiones empresariales",
+    "imagen_quienes_somos": "../imgs/hombrerubio.png",
+    "titulo_ayuda_empresa": "¿Cómo Podemos Ayudar a tu Empresa?",
+    "descripcion_ayuda_empresa": "Podemos ayudarte a automatizar los procesos de ventas, mejorar la atención al cliente y ofrecer análisis de datos detallados para tomar decisiones estratégicas. Nuestra herramienta CRM está diseñada para optimizar la relación con tus clientes y aumentar la eficiencia de tu negocio.",
+    "lista_ayuda_empresa": "Automatización de procesos de ventas,Mejora de la atención al cliente,Análisis de datos para decisiones estratégicas",
+    "imagen_ayuda_empresa": "../imgs/ayudaempresa.png",
+    "titulo_crm": "Nuestras Soluciones CRM",
+    "cards_crm": [
+        {
+            "titulo": "Gestión de Clientes",
+            "descripcion": "Un CRM (Customer Relationship Management) es una herramienta que te permite gestionar y analizar las interacciones con tus clientes.",
+            "imagen": "../imgs/contacto.png"
+        },
+        {
+            "titulo": "Automatización",
+            "descripcion": "Automatiza procesos de ventas, marketing y atención al cliente para aumentar la eficiencia.",
+            "imagen": "../imgs/gestion-inventario.png"
+        },
+        {
+            "titulo": "Análisis de Datos",
+            "descripcion": "Obtén análisis detallados para tomar decisiones estratégicas basadas en datos reales.",
+            "imagen": "../imgs/analisis-ventas.png"
+        }
+    ],
+    "titulo_cta": "Únete a Nuestro CRM Hoy Mismo",
+    "descripcion_cta": "Regístrate ahora y comienza a optimizar la gestión de tus clientes con nuestra herramienta CRM avanzada.",
+    "link_cta": "registro.html",
+    "texto_footer": "2024 Carlos y Juan. Todos los derechos reservados."
+}

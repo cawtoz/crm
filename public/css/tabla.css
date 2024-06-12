@@ -1,0 +1,139 @@
+.table-container h1 {
+    margin: 0px;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+.table-container .data {
+    overflow: auto;
+    border-radius: 10px;
+    border-bottom: solid 2px #435ebe;
+}
+
+.table-container .data thead {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+
+.table-container table {
+
+    border-collapse: collapse;
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.2);
+}
+
+
+.table-container th {
+    color: rgb(255, 255, 255);
+    background-color: #435ebe;
+}
+
+
+.table-container th div {
+    display: flex;
+}
+
+.table-container th div img {
+    width: 20px;
+    padding-right: 5px;
+    filter: invert(100%);
+}
+
+.table-container th,
+.table-container td {
+    padding: 10px;
+    height: 31px;
+    font-size: 15px;
+    text-align: center;
+}
+
+.table-container tbody tr td {
+    background-color: #fff;
+}
+
+.table-container tbody tr:nth-child(odd) td {
+    background-color: #fff;
+}
+
+.table-container tr {
+    border-top: 1px solid rgba(0, 0, 0, 0.247);
+}
+
+.table-container tr:first-of-type {
+    border: none;
+}
+
+.table-container td:first-of-type {
+    text-align: center;
+}
+
+.context-menu-button {
+    border: none;
+    background-color: transparent;
+}
+
+.context-menu-button img {
+    width: 25px;
+    transition: transform 0.3s ease;
+}
+
+.context-menu-button img:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+    border-bottom: solid 1px rgb(25, 113, 228);
+    cursor: pointer;
+}
+
+.context-menu {
+    position: absolute;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    background-color: rgb(25, 113, 228);
+    padding: 10px;
+    z-index: 1000;
+}
+
+.context-menu li {
+    list-style-type: none;
+}
+
+.context-menu button {
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 15px;
+    background-color: transparent;
+    border: none;
+    display: flex;
+    align-items: center;
+    transition: transform 0.3s ease;
+}
+
+.context-menu button:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.context-menu img {
+    width: 20px;
+    filter: invert(100%);
+    padding-right: 10px;
+}
+
+.context-menu p {
+    text-align: left;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+}
+
+.context-menu button:hover {
+    background-color: rgba(0, 0, 0, 0.144);
+}
+
+.selected-record {
+    background-color: rgba(25, 113, 228, 0.185);
+}
